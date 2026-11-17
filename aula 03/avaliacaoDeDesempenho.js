@@ -1,4 +1,6 @@
-inquirer.prompt([
+const inquirer = require('inquirer');
+
+inquirer.promp([
     {name: 'nota', message: 'Informe a nota (0 a 10): ' },
     {name: 'frequencia', message: 'Informe a frequência (0 a 100%): ' }
 ]).then(respostas => {
