@@ -32,3 +32,12 @@
             -Classificar o desempenho conforme a tabela.
             -Exibir a mensagem correspondente.
       
+# Aula 05 - 18/11/2026
+      Problema => Algoritmo => Código => Execução => Resultado
+      - Revisão e Consolidação
+      - Lógica e Algoritmos
+      - GitHun, Codespaces e JavaScript
+      - Operadores e Expressões Lógicas
+      - Estrutuas de Repetição
+      - Revisão e Consolidação
+      Atididade Prática 03
