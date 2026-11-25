@@ -1,6 +1,6 @@
 # Atividades e exercícios - Profº - Carlos Duarte
 
-# Apresentação do curso  - 10/11/2026     
+       Apresentação do curso  - 10/11/2026     
 
 # Aula 01 - 11/11/2026
       -Lógica de programação
