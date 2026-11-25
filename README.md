@@ -47,5 +47,12 @@
       -Propriedades("lenght, chartAt(),indexOf(), includes(), toUpperCase(), toLowerCase
       (), trim()")
       -Métodos("slice(), substring(), replace(), split(), concat()")
+
+# Aula 07 - 25/11/2026
+      Continuação às estruturas de dados
+      -Arrays
+      -Propriedades
+      -Métodos
+      
       
       
