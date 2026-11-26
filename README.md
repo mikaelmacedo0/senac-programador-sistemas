@@ -53,6 +53,20 @@
       -Arrays
       -Propriedades
       -Métodos
+
+# Aula 08 - 26/11/2026
+       Programação Orientadas a Objetos em JavaScript
+       - POO
+       - Objetos
+       - Propriedades
+       - Métodos
+       - Classes
+       - Construtor e o this
+       - Encapsulamento
+       - Herança
+       - Polimorfismo
+       - Multiplos Objetos
+       - Acessando e modificando propriedades
       
       
       
