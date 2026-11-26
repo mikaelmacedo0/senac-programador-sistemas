@@ -94,5 +94,37 @@
     console.log("7 - Calcular soma, média, a maior e a menor quantidade. Usar o acumulador, Math.max, Math.min se estiver vazia não calcular média")
     console.log("___________________________________________________________________________________________")
         
+        let soma = 0;
+        let maior = 0;
+        let menor = 0;
+        let media = 0;
+        
+        //Teste da condição de lista vazia
+        //estoque.length = 0
+        if(estoque.length == 0 || estoque == []){
+            console.log("Não é possível calcular o estoque")
+        } else {
+            for (let i = 0; i < produtos.length;i++) {
+                //Soma    
+                soma = soma+estoque[i]     
+            }
+            //Média
+            media = soma/estoque.length;
+            //Maior
+            maior = Math.max(...estoque);
+            //Menor
+            menor = Math.min(...estoque);
+        console.log("Valores do estoque: "+estoque);
+        console.log("Soma total do estoque: "+soma);
+        console.log("A média do estoque é: "+media);
+        console.log("O maior valor do estoque: "+maior);
+        console.log("O menor valor do estoque: "+menor);
+        }
+
+    console.log("___________________________________________________________________________________________")
+    console.log("8 - Crie um terceiro array inicialmente vazio")
+    console.log("___________________________________________________________________________________________")
+        
+        
 
 
