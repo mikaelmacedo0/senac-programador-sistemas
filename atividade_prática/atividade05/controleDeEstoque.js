@@ -90,4 +90,9 @@
             }
         }
 
+    console.log("___________________________________________________________________________________________")
+    console.log("7 - Calcular soma, média, a maior e a menor quantidade. Usar o acumulador, Math.max, Math.min se estiver vazia não calcular média")
+    console.log("___________________________________________________________________________________________")
+        
+
 
